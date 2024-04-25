@@ -3,7 +3,7 @@
 int main()
 {
 	 int    i,value;
-
+//Starting the for loop
 	for (i=0; i<5; i++)
 	{
         	printf("What is the value? ");
