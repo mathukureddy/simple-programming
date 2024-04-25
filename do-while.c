@@ -2,7 +2,7 @@
 
 int main()
 {
-	 int    i=2,value;
+	 int    i=0,value;
 
 	do
 	{

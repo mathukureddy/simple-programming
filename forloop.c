@@ -4,9 +4,9 @@ int main()
 {
 	 int    i,value;
 //Starting the for loop
-	for (i=0; i<5; i++)
+	for (i=0; i<=5; ++i)
 	{
-        	printf("What is the value? ");
+        	printf("What is the value? - %d ",i);
         	scanf("%d", &value);
 		if (value % 2 == 0)
 		{	

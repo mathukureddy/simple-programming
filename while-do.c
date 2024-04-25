@@ -16,7 +16,11 @@ int main()
 		{
 			printf("Entered value is Odd number \n");
 		}
-		i++;
+
+		if (i == 3){
+		continue;
+		}
+		++i;
 	}
 	return(0);
 }
