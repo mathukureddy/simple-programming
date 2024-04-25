@@ -3,7 +3,7 @@
 int main()
 {
 	 int    i=1,value;
-
+ //starting while loop
 	while ( i<5)
 	{
         	printf("What is the value? ");
